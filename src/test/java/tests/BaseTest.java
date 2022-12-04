@@ -12,6 +12,8 @@ import utility.PropReader;
 
 public class BaseTest {
 	
+
+// my first changes 
 	public static WebDriver driver;
 	
 	@BeforeSuite
